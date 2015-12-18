@@ -3,7 +3,5 @@
 void main()
 {
 
-printf("hello world !");
-getch();
-
+printf("hello world !\n");
 }
